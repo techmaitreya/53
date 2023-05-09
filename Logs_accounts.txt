@@ -1,0 +1,8 @@
+{
+    "walechakrish@gmail.com": {
+        "Last check": "2023-05-09",
+        "Today's points": 440,
+        "Points": 2738
+    },
+    "Elapsed time": "00:13:14"
+}
